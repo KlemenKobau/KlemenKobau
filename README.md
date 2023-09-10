@@ -1,3 +1,3 @@
 ### Hello
 
-I am a Full stack developer. Currently learning Rust and Kubernetes.
+I am a backend developer. Currently learning Rust and Kubernetes.
