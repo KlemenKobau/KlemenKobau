@@ -1,3 +1,4 @@
-### Hello
-
-I am a backend developer. Currently learning Rust and Kubernetes.
+### Hello, I am Klemen
+- Working on the CKA exam for Kubernetes
+- Learning more about linux each day
+- Testing the waters of type theory
