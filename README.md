@@ -1,4 +1,4 @@
-# Hello, I am Klemen
+# Hello :wave:, I am Klemen
 
 ## Professional :desktop_computer:
 - Working on the CKA exam for Kubernetes
